@@ -1,7 +1,9 @@
 #banner {
   width: 500px;
   height: 500px;
-  background-image: url("../images/banner-bg.jpg");
+  /* background-image: url("../images/banner-bg.jpg"); */
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url(../images/banner-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
