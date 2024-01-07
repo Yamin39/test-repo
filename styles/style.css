@@ -1,0 +1,12 @@
+#banner {
+  width: 500px;
+  height: 500px;
+  background-image: url("../images/banner-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
